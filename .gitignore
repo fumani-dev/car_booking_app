@@ -1,0 +1,13 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor settings and OS metadata
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
